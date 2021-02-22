@@ -1,0 +1,14 @@
+--SDLC
+	beta & alpha tests
+	types: cascade, v-shaped (2TUP)
+		--iterative Agile: SCRUM or XP
+		
+		
+	les besoins & methodologie & diagramme de PERT & diagramme de GAIN (taches en calendrier)
+	
+--Java Intro
+	JRE -- java & jvm
+	JDK -- javac + jre 
+	
+	
+	
